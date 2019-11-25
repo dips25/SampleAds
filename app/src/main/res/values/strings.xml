@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sample Ads</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="products">
+        <item>Mobiles and Tablets</item>
+        <item>Furnitures</item>
+        <item>Cars</item>
+        <item>Jobs</item>
+        <item>Education</item>
+        <item>Entertainment</item>
+        <item>Event Management</item>
+    </string-array>
+</resources>
